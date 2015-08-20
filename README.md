@@ -10,4 +10,4 @@ DossierProductividad.java es la clase que se encarga de cargar la interface graf
 
 
 ### Contexto
-El Dossier Productividad fue mi proyecto final de la materia Inform�tica Nivel Medio del Bachillerato Internacional.
+El Dossier Productividad fue mi proyecto final de la materia Informática Nivel Medio del Bachillerato Internacional.
